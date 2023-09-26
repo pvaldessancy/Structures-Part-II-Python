@@ -28,7 +28,7 @@ Purpose: This exercise is centered around data analysis and statistics. It also 
 Getting Started
 To get started with these exercises, follow these steps:
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/Python-Programming-Exercises.git
+git clone https://github.com/pvaldessancy/Python-Programming-Exercises.git
 
 Navigate to the exercise folder of your choice (Exercise1 or Exercise2).
 Run the Python script for the chosen exercise and follow the program's instructions.
